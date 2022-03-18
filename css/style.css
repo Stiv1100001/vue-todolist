@@ -1,0 +1,8 @@
+#todo-container {
+    max-height: 85vh;
+    overflow-y: auto;
+}
+
+.my-list-item:hover {
+    background-color: rgb(170, 170, 243) !important;
+}
